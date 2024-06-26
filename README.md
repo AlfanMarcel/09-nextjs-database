@@ -39,3 +39,9 @@ Fungsi tersebut melakukan queri dan mengubahnya dari struktur data menjadi nilai
 
 # Soal 1
 ![alt text](10-1.png)
+
+# Soal 2
+![alt text](10-2.png)
+
+# Soal 3
+![Screenshot W10P3](10-3.gif)
