@@ -34,3 +34,8 @@ Link : [MyVecelProject](https://09-nextjs-database-kappa-beryl.vercel.app/)
 ![alt text](prak1.png)
 ### 2
 Fungsi tersebut melakukan queri dan mengubahnya dari struktur data menjadi nilai numerik, sehingga nilai tersebut bisa digunakan pada variabel const numberOfInvoices,numberOfCustomers,totalPaidInvoices,totalPendingInvoices.
+
+# 10|Authentication|
+
+# Soal 1
+![alt text](10-1.png)
